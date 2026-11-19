@@ -1,0 +1,19 @@
+# 个人风格档案（含隐私偏好，绝不入库）
+profile.md
+code-style-profile.md
+*.bak.*
+*.bak
+
+# 项目本地配置
+.workbuddy/
+
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Python 缓存（示例目录运行时产生）
+__pycache__/
+*.py[cod]
